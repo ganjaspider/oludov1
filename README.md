@@ -55,7 +55,7 @@ A modern, immersive 3D web adaptation of the classic board game Ludo. Built with
 
 ## 🚀 How to Run
 1.  Clone the repository or download the source code.
-2.  Open `ludoo.html` in any modern web browser.
+2.  Open `ludo.html` in any modern web browser.
 3.  No build step or server required!
 
 ## 📜 License
